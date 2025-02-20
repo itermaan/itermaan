@@ -1,16 +1,31 @@
-## Hi there 👋
+# About me
+Hi! I'm Kacper and I'm currently undergraduate computer science student at Gdańsk University of Technology and member of student science club [Gradient PG](https://gradient.eti.pg.gda.pl/). Let me introduce myself.
 
-<!--
-**itermaan/itermaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👷‍♂️ Currently working on:
+### [FliesDetector](https://github.com/Gradient-PG/FliesDetector) - **Computer vision, deep learning** student science club project.
+The idea is to detect and classify fruit flies (Drosophila melanogaster) in biological laboratory circumnstances.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Quiz Application](https://github.com/jkalinowsky/quizapp) - **Web app** for efficient studying with flash cards.
+As students we had enough of paid applications for studying using flashcards and decided to create our own app.
+
+---
+
+## Programming languages and technologies I'm familiar with:
+- Python
+- C
+- MASM
+- Java
+- PostgreSQL and MSSQL
+- JavaScript
+
+---
+
+## 🫀 My interests and hobbies:
+- Science in big picture, especially computational neuroscience and psychology
+- Intricacies of computer architecture and organization
+- Math, especially probability and statistics
+- Basketball, squash and other sports
+- Philosophy and sci-fi books
+
