@@ -12,7 +12,7 @@ As students we had enough of paid applications for studying using flashcards and
 
 ---
 
-## Programming languages and technologies I'm familiar with:
+## 🛠️ Programming languages and technologies I'm familiar with:
 - Python
 - C
 - MASM
