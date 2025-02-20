@@ -3,7 +3,7 @@ Hi! I'm Kacper and I'm currently undergraduate computer science student at Gdań
 
 ## 👷‍♂️ Currently working on:
 ### Flies Detector _(still private repo)_ - **Computer vision, deep learning** student science club project.
-The idea is to detect and classify fruit flies (Drosophila melanogaster) in biological laboratory circumnstances.
+The idea is to detect and classify fruit flies (Drosophila melanogaster) in biological laboratory circumstances.
 
 ---
 
